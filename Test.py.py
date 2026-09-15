@@ -14,5 +14,6 @@ if __name__ == "__main__" :
     print(faculteit(3))
     print(faculteit(4))
     print(faculteit(5))
+    
     print("-- Einde Test --")
     
